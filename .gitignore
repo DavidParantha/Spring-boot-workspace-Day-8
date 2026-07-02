@@ -1,0 +1,5 @@
+﻿**/target/
+.metadata/
+*.log
+*.tmp
+.idea/
